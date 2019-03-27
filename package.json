@@ -1,0 +1,27 @@
+{
+  "name": "jsdoc-vuex-plugin",
+  "version": "0.0.0",
+  "description": "A JSDoc plug-in to document Vuex modules.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/martiensk/vuex-jsdoc.git"
+  },
+  "keywords": [
+    "jsdoc",
+    "vue",
+    "vuex"
+  ],
+  "author": "Martiens Kropff",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/martiensk/vuex-jsdoc/issues"
+  },
+  "homepage": "https://github.com/martiensk/vuex-jsdoc#readme",
+  "dependencies": {
+    "jsdoc": "^3.5.5"
+  }
+}
