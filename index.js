@@ -4,7 +4,6 @@
  */
 
 const getterTag = require('./lib/getter');
-const getterObjectTag = require('./lib/gettersObject');
 
 exports.defineTags = (dictionary) => {
     dictionary.defineTag(getterTag.name, getterTag.options);
