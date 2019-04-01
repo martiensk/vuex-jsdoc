@@ -15,13 +15,19 @@
     "vue",
     "vuex"
   ],
-  "author": "Martiens Kropff",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/martiensk/vuex-jsdoc/issues"
   },
   "homepage": "https://github.com/martiensk/vuex-jsdoc#readme",
   "dependencies": {
     "jsdoc": "^3.5.5"
+  },
+  "engines": {
+    "node": ">=8.15.0"
+  },
+  "author": {
+    "name": "Martiens Kropff",
+    "email": "martiensk@gmail.com"
   }
 }
