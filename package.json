@@ -1,6 +1,6 @@
 {
   "name": "jsdoc-vuex-plugin",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "description": "A JSDoc plug-in to document Vuex modules.",
   "main": "index.js",
   "scripts": {
