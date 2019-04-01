@@ -15,7 +15,7 @@ npm i -g jsdoc-vuex-plugin
 ```
 To enable the plugin in JsDoc, add the relevant configuration option in your jsdoc.conf:
 ### __Example:__
-```
+``` json
 {
   "tags": {
     "allowUnknownTags": true
