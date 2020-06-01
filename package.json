@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/martiensk/vuex-jsdoc#readme",
   "dependencies": {
-    "jsdoc": "^3.5.5"
+    "jsdoc": "^3.6.4"
   },
   "engines": {
     "node": ">=8.15.0"
