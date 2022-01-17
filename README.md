@@ -1,3 +1,5 @@
+# Note;
+I am not supporting this plugin anymore, although I will still review and merge PRs. If anyone feels like taking over this project please let me know.
 # jsdoc-vuex-plugin
 A [JsDoc](http://usejsdoc.org/index.html) plugin for documenting [Vuex](https://vuex.vuejs.org/) modules.
 ## Why would I do this?
