@@ -2,7 +2,9 @@
  * Define custon tags for documenting Vuex state, getters, mutations and actions properties.
  * @module jsdoc-vuex-plugin
  */
-
+/**
+ * @typedef {Object} VuexContext Vuex Context object
+ */
 const getterTag = require('./lib/getter');
 const mutatorTag = require('./lib/mutator');
 const actionTag = require('./lib/action');
